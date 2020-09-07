@@ -34,8 +34,8 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/preset-flow": "^7.0.0",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-flow": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
     "@storybook/addons": "6.0.0-rc.29",
     "@storybook/core": "6.0.0-rc.29",
     "@storybook/node-logger": "6.0.0-rc.29",
@@ -47,18 +47,18 @@
     "babel-plugin-react-docgen": "^4.1.0",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "prop-types": "^15.7.2",
     "react-dev-utils": "^10.0.0",
     "react-docgen-typescript-plugin": "^0.5.2",
-    "regenerator-runtime": "^0.13.3",
+    "regenerator-runtime": "^0.13.7",
     "ts-dedent": "^1.1.1",
-    "webpack": "^4.43.0"
+    "webpack": "^4.44.1"
   },
   "devDependencies": {
     "@storybook/client-api": "6.0.0-rc.29",
-    "@types/node": "^14.0.10",
-    "@types/webpack": "^4.41.12"
+    "@types/node": "^14.6.4",
+    "@types/webpack": "^4.41.22"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.1",

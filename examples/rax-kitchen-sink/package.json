@@ -9,17 +9,17 @@
     "storybook": "start-storybook -p 9009 -s public"
   },
   "dependencies": {
-    "driver-universal": "^3.0.0",
+    "driver-universal": "^3.1.4",
     "event-emitter": "^0.3.5",
-    "rax": "^1.1.0",
+    "rax": "^1.1.4",
     "rax-image": "^1.0.0",
-    "rax-link": "^1.0.0",
-    "rax-text": "^1.1.2",
-    "rax-view": "^1.0.0"
+    "rax-link": "^1.4.1",
+    "rax-text": "^1.4.0",
+    "rax-view": "^1.2.0"
   },
   "devDependencies": {
-    "@alib/build-scripts": "^0.1.8",
-    "@babel/preset-react": "^7.7.4",
+    "@alib/build-scripts": "^0.1.27",
+    "@babel/preset-react": "^7.10.4",
     "@storybook/addon-a11y": "6.0.0-rc.29",
     "@storybook/addon-actions": "6.0.0-rc.29",
     "@storybook/addon-backgrounds": "6.0.0-rc.29",
