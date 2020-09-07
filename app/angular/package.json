@@ -38,19 +38,19 @@
     "@storybook/core": "6.0.0-rc.29",
     "@storybook/node-logger": "6.0.0-rc.29",
     "@types/webpack-env": "^1.15.2",
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.6",
     "core-js": "^3.0.1",
-    "fork-ts-checker-webpack-plugin": "^4.0.3",
+    "fork-ts-checker-webpack-plugin": "^4.1.6",
     "global": "^4.3.2",
     "postcss-loader": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "regenerator-runtime": "^0.13.3",
+    "regenerator-runtime": "^0.13.7",
     "sass-loader": "^8.0.0",
-    "strip-json-comments": "^3.0.1",
+    "strip-json-comments": "^3.1.1",
     "ts-loader": "^6.0.1",
-    "tsconfig-paths-webpack-plugin": "^3.2.0",
-    "webpack": "^4.43.0"
+    "tsconfig-paths-webpack-plugin": "^3.3.0",
+    "webpack": "^4.44.1"
   },
   "devDependencies": {
     "@types/autoprefixer": "^9.4.0"

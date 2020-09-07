@@ -31,10 +31,10 @@
     "@storybook/source-loader": "6.0.0-rc.29",
     "@storybook/web-components": "6.0.0-rc.29",
     "babel-loader": "^8.0.5",
-    "eventemitter3": "^4.0.0",
+    "eventemitter3": "^4.0.7",
     "format-json": "^1.0.3",
     "global": "^4.3.2",
-    "lit-element": "^2.2.1"
+    "lit-element": "^2.4.0"
   },
   "storybook": {
     "chromatic": {

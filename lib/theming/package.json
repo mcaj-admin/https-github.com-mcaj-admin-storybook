@@ -28,7 +28,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
+    "@emotion/core": "^10.0.35",
     "@emotion/is-prop-valid": "^0.8.6",
     "@emotion/styled": "^10.0.17",
     "@storybook/client-logger": "6.0.0-rc.29",
@@ -37,7 +37,7 @@
     "emotion-theming": "^10.0.19",
     "global": "^4.3.2",
     "memoizerific": "^1.11.3",
-    "polished": "^3.4.4",
+    "polished": "^3.6.6",
     "resolve-from": "^5.0.0",
     "ts-dedent": "^1.1.1"
   },

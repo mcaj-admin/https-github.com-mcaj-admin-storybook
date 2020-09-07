@@ -29,19 +29,19 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/plugin-transform-classes": "^7.9.2",
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-classes": "^7.10.4",
     "@storybook/addons": "6.0.0-rc.29",
     "@storybook/api": "6.0.0-rc.29",
-    "@types/webpack": "^4.41.9",
+    "@types/webpack": "^4.41.22",
     "babel-loader": "^8.0.6",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
     "graphiql": "^0.17.5",
-    "graphql": "^15.0.0",
+    "graphql": "^15.3.0",
     "prop-types": "^15.7.2",
-    "regenerator-runtime": "^0.13.3",
-    "webpack": "^4.43.0"
+    "regenerator-runtime": "^0.13.7",
+    "webpack": "^4.44.1"
   },
   "peerDependencies": {
     "react": "*",
