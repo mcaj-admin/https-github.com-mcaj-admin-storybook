@@ -35,8 +35,8 @@
   },
   "dependencies": {
     "@storybook/addons": "6.0.0-rc.29",
-    "@storybook/core": "6.0.0-rc.29",
-    "@storybook/node-logger": "6.0.0-rc.29",
+    "@storybook/core": "6.0.19",
+    "@storybook/node-logger": "6.0.19",
     "@types/webpack-env": "^1.15.2",
     "autoprefixer": "^9.7.6",
     "core-js": "^3.0.1",
