@@ -214,7 +214,7 @@
     "lodash": "^4.17.20",
     "mocha-list-tests": "^1.0.2",
     "node-cleanup": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-sass": "^4.14.0",
     "npmlog": "^4.1.2",
     "p-limit": "^2.3.0",
