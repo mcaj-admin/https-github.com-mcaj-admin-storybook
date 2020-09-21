@@ -36,8 +36,8 @@
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
-    "@storybook/addons": "6.0.0-rc.29",
-    "@storybook/core": "6.0.0-rc.29",
+    "@storybook/addons": "6.0.21",
+    "@storybook/core": "6.0.21",
     "@types/mithril": "^2.0.0",
     "@types/webpack-env": "^1.15.2",
     "core-js": "^3.0.1",
@@ -46,7 +46,7 @@
     "ts-dedent": "^1.1.1"
   },
   "devDependencies": {
-    "mithril": "^1.1.6"
+    "mithril": "^2.0.4"
   },
   "peerDependencies": {
     "@babel/core": "*",
