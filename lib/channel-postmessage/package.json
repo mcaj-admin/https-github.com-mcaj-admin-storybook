@@ -33,7 +33,7 @@
     "@storybook/core-events": "6.0.0-rc.29",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "qs": "^6.6.0",
+    "qs": "^6.9.7",
     "telejson": "^5.0.2"
   },
   "publishConfig": {
