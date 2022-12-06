@@ -108,7 +108,7 @@
     "postcss-flexbugs-fixes": "^4.1.0",
     "postcss-loader": "^3.0.0",
     "pretty-hrtime": "^1.0.3",
-    "qs": "^6.6.0",
+    "qs": "^6.9.7",
     "raw-loader": "^4.0.1",
     "react-dev-utils": "^10.0.0",
     "regenerator-runtime": "^0.13.3",
