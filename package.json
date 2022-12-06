@@ -184,7 +184,7 @@
     "eslint-plugin-react": "^7.15.1",
     "eslint-teamcity": "^3.0.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^9.0.0",
     "github-release-from-changelog": "^2.1.0",
     "glob": "^7.1.3",
