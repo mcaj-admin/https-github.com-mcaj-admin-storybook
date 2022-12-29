@@ -99,7 +99,7 @@
     "inquirer": "^7.0.0",
     "interpret": "^2.0.0",
     "ip": "^1.1.5",
-    "json5": "^2.1.1",
+    "json5": "^2.2.2",
     "lazy-universal-dotenv": "^3.0.1",
     "micromatch": "^4.0.2",
     "node-fetch": "^2.6.0",
