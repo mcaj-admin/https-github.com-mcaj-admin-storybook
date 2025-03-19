@@ -39,8 +39,8 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/generator": "^7.9.6",
-    "@babel/parser": "^7.9.6",
+    "@babel/generator": "^7.26.10",
+    "@babel/parser": "^7.26.10",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
     "@babel/preset-env": "^7.9.6",
     "@jest/transform": "^26.0.0",
@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@angular/core": "^9.1.0",
-    "@babel/core": "^7.9.6",
+    "@babel/core": "^7.26.10",
     "@emotion/core": "^10.0.20",
     "@emotion/styled": "^10.0.17",
     "@storybook/react": "6.0.0-rc.29",
