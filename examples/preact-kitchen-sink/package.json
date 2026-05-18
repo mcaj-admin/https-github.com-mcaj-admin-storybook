@@ -33,7 +33,7 @@
     "raw-loader": "^4.0.1",
     "svg-url-loader": "^5.0.0",
     "webpack": "^4.33.0",
-    "webpack-dev-server": "^3.8.2"
+    "webpack-dev-server": "^5.2.4"
   },
   "storybook": {
     "chromatic": {
