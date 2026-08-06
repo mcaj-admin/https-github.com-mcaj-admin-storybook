@@ -166,7 +166,7 @@
     "babel-plugin-require-context-hook": "^1.0.0",
     "chalk": "^4.0.0",
     "chromatic": "^5.0.0",
-    "codecov": "^3.5.0",
+    "codecov": "^3.7.2",
     "codelyzer": "^5.0.0",
     "commander": "^5.1.0",
     "concurrently": "^5.2.0",
