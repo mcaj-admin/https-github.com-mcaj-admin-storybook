@@ -58,7 +58,7 @@
     "react-sizeme": "^2.6.7",
     "regenerator-runtime": "^0.13.3",
     "resolve-from": "^5.0.0",
-    "store2": "^2.7.1"
+    "store2": "^2.14.4"
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
