@@ -19,12 +19,12 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@angular/common": "^9.1.0",
-    "@angular/compiler": "^9.1.0",
-    "@angular/core": "^9.1.0",
-    "@angular/forms": "^9.1.0",
-    "@angular/platform-browser": "^9.1.0",
-    "@angular/platform-browser-dynamic": "^9.1.0",
+    "@angular/common": "^16.2.8",
+    "@angular/compiler": "^16.2.8",
+    "@angular/core": "^16.2.8",
+    "@angular/forms": "^16.2.8",
+    "@angular/platform-browser": "^16.2.8",
+    "@angular/platform-browser-dynamic": "^16.2.8",
     "@ngrx/store": "^9.0.0",
     "core-js": "^3.0.1",
     "node-sass": "^4.14.0",
