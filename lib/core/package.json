@@ -101,7 +101,7 @@
     "ip": "^1.1.5",
     "json5": "^2.1.1",
     "lazy-universal-dotenv": "^3.0.1",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.8",
     "node-fetch": "^2.6.0",
     "pkg-dir": "^4.2.0",
     "pnp-webpack-plugin": "1.6.4",
