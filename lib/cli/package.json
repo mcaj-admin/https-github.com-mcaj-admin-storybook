@@ -55,7 +55,7 @@
     "globby": "^11.0.0",
     "inquirer": "^7.0.0",
     "jscodeshift": "^0.6.3",
-    "json5": "^2.1.1",
+    "json5": "^2.2.2",
     "leven": "^3.1.0",
     "puppeteer-core": "^2.0.0",
     "shelljs": "^0.8.3",
