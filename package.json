@@ -179,7 +179,7 @@
     "enquirer": "^2.3.5",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.9.1",
-    "eslint": "^6.8.0",
+    "eslint": "^9.39.2",
     "eslint-plugin-cypress": "^2.10.1",
     "eslint-plugin-react": "^7.15.1",
     "eslint-teamcity": "^3.0.0",
