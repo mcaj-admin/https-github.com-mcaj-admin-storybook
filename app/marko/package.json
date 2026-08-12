@@ -33,9 +33,9 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@marko/webpack": "^2.1.0",
-    "@storybook/client-logger": "6.0.0-rc.29",
-    "@storybook/core": "6.0.0-rc.29",
+    "@marko/webpack": "^6.2.9",
+    "@storybook/client-logger": "6.0.21",
+    "@storybook/core": "6.0.21",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
     "regenerator-runtime": "^0.13.3",
