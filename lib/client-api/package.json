@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "@storybook/addons": "6.0.0-rc.29",
-    "@storybook/channel-postmessage": "6.0.0-rc.29",
-    "@storybook/channels": "6.0.0-rc.29",
-    "@storybook/client-logger": "6.0.0-rc.29",
+    "@storybook/channel-postmessage": "6.0.19",
+    "@storybook/channels": "6.0.19",
+    "@storybook/client-logger": "6.0.19",
     "@storybook/core-events": "6.0.0-rc.29",
     "@storybook/csf": "0.0.1",
     "@types/qs": "^6.9.0",
